@@ -1,0 +1,80 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+  - '&0-&c--------------'
+  - '&c-&0-&c-------------'
+  - '&c--&0-&c------------'
+  - '&c---&0-&c-----------'
+  - '&c----&0-&c----------'
+  - '&c-----&0-&c---------'
+  - '&c------&0-&c--------'
+  - '&c-------&0-&c-------'
+  - '&c--------&0-&c------'
+  - '&c---------&0-&c-----'
+  - '&c----------&0-&c----'
+  - '&c-----------&0-&c---'
+  - '&c------------&0-&c--'
+  - '&c-------------&0-&c-'
+  - '&c--------------&0-'
+  - '&c-------------&0-&c-'
+  - '&c------------&0-&c--'
+  - '&c-----------&0-&c---'
+  - '&c----------&0-&c----'
+  - '&c---------&0-&c-----'
+  - '&c--------&0-&c------'
+  - '&c-------&0-&c-------'
+  - '&c------&0-&c--------'
+  - '&c-----&0-&c---------'
+  - '&c----&0-&c----------'
+  - '&c---&0-&c-----------'
+  - '&c--&0-&c------------'
+  - '&c-&0-&c-------------'
+  - '&0-&c--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lUniteds Season &6&l1'
+  - '&c&lUniteds Season &6&l1'
+  - '&c&lUniteds Season &6&l1'
+  - '&c&lUniteds Season &6&l1'
+  - '&c&lUniteds Season &6&l1'
+  - '&c&lUniteds Season &6&l1'
+web:
+  change-interval: 200
+  texts:
+  - '&c&lUnitedsMC.net'
+  - '&c&lUnitedsMC.net'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&c&lW'
+  - '&c&lW'
+  - '&c&lWe'
+  - '&c&lWel'
+  - '&c&lWelc'
+  - '&c&lWelco'
+  - '&c&lWelcom'
+  - '&c&lWelcome'
+  - '&c&lWelcome'
+  - '&c&lWelcome'
+  - '&c&lWelcome'
+  - '&c&lWelcom'
+  - '&c&lWelco'
+  - '&c&lWelc'
+  - '&c&lWel'
+  - '&c&lWe'
+  - '&c&lW'
+  - '&c&lW'
+time:
+  change-interval: 900
+  texts:
+  - '&8> Time &f%time% &8<'
+  - '&8>> Time &f%time% &8<<'
+  - '&8>>> Time &f%time% &8<<<'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW
